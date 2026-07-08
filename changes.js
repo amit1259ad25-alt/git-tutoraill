@@ -1,3 +1,3 @@
 console.log("changes.js loaded");
 console.log("Hello, World!");
-console.log("version 7");
+console.log("version 8");
